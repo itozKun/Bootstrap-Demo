@@ -1,2 +1,2 @@
 # Bootstrap-Demo
-demo 
+demo of using bootstrap
